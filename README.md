@@ -4,3 +4,4 @@
 ### Course Structure:
 
 * [Lesson 3.11](lessons/03.11/index.html) - Figures [(classroom)](https://classroom.udacity.com/courses/ud304-emea/lessons/7222405183/concepts/72233563840923)
+* [Lesson 3.12](lessons/03.12/index.html) - Mockup to Website [(classroom)](https://classroom.udacity.com/courses/ud304-emea/lessons/7222405183/concepts/72600943280923)
