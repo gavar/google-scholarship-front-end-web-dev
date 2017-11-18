@@ -1,0 +1,39 @@
+.prototype img {
+  background: url("design-prototype.png") no-repeat center;
+  background-size: cover;
+  position: absolute;
+  left: calc(-5px + 540px);
+  top: -3px;
+  opacity: 1;
+}
+h1, p, li {
+  font-family: 'Noto Serif', sans-serif;
+}
+.box {
+  border: thin solid lightgray;
+}
+.animal {
+  padding: 5px 15px 15px;
+  width: 300px;
+  box-shadow: 10px 10px 5px lightgray;
+}
+.animal img {
+  width: 100%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.animal ul {
+  padding: 0;
+}
+.animal li {
+  list-style-type: none;
+}
+.animal li span {
+  font-weight: bold;
+}
+.info {
+  padding: 0 15px 15px;
+}
+.fact {
+  font-style: italic;
+}
