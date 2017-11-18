@@ -12,3 +12,9 @@
 |[Lesson 6.6](https://classroom.udacity.com/courses/ud304-emea/lessons/7323812069/concepts/71182299710923) | [CSS: Using Attributes](lessons/06.06/index.html) | [view](https://gavar.github.io/google-scholarship-front-end-web-dev/lessons/06.06/index.html)
 |[Lesson 6.10](https://classroom.udacity.com/courses/ud304-emea/lessons/7323812069/concepts/74223546650923) | [CSS: Link to a Stylesheet](lessons/06.10/index.html) | [view](https://gavar.github.io/google-scholarship-front-end-web-dev/lessons/06.10/index.html)
 |[Lesson 8.1](https://classroom.udacity.com/courses/ud304-emea/lessons/42d3d82e-6056-4162-9183-750d863c24f6/concepts/7d411cb8-f24f-41c9-87e9-8db8f37551fc) | [Project: Animal Trading Cards](lessons/08.01/index.html) | [view](https://gavar.github.io/google-scholarship-front-end-web-dev/lessons/08.01/index.html)
+
+### Udacity Frontend Nanodegree Style Guide
+* [HTML](https://udacity.github.io/frontend-nanodegree-styleguide/index)
+* [CSS](https://udacity.github.io/frontend-nanodegree-styleguide/css)
+* [JavaScript](https://udacity.github.io/frontend-nanodegree-styleguide/javascript)
+* [GIT](https://udacity.github.io/git-styleguide)
